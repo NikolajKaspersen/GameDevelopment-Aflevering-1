@@ -1,0 +1,4 @@
+repository "Mand der kan løbe@Nikolajjk13a@cloud"
+  path "/"
+    br "/main"
+    co "/main"
