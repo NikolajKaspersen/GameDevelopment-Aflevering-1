@@ -11,7 +11,7 @@ Developed scripts in C# for the following purposes:
 MoveController
 JumpController
 Death & respawn controllers
-Additionally, we have focused on presenting a small graphical scene on a terrain with water. We have utilized Unity's built-in effects, including Rigidbody, gravity, and collision. At the same time, we have also used free assets that we found on the Asset Store.
+Additionally, we have focused on presenting a small graphical scene on a terrain with water. We have utilized Unity's built-in effects, including Rigidbody, gravity, vituelCamera and collision. At the same time, we have also used free assets that we found on the Asset Store.
 
 ####
 Game premise:
